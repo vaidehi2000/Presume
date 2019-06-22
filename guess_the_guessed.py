@@ -29,7 +29,7 @@ def check(a,b):
     return r
 
 c = generate()
-d = str(input("Enter a 3 digit number with all different digits: "))
+d = input("Enter a 3 digit number with all different digits: ")
 while(c!=d):
     r = check(c,d)
     if(r==0):
