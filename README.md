@@ -11,5 +11,5 @@
    
    >>-> Match: If any of your digits match the main answer and is in right position.
 
-Let's get started!!!
+### "Run the code" and "Play"!!!
   
